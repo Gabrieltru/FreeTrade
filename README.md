@@ -12,3 +12,4 @@
     <p>Here you can see stock prices indicators and trade entrys</p>
 </body>
 </html>
+hello

@@ -10,4 +10,5 @@
     <p>This is my first webpage hosted on GitHub Pages.</p>
     <p>Here you can see stock prices indicators and trade entrys</p>
     <p>Hello</p>
+    <button onclick="alert('Button clicked!')">Click Me</button>
 </body>

@@ -1,5 +1,4 @@
 # FreeTrade
-<!DOCTYPE html> -->
 <!-- <!-- <html lang="en"> -->
 <head>
     <meta charset="UTF-8">
@@ -12,4 +11,3 @@
     <p>Here you can see stock prices indicators and trade entrys</p>
     <p>Hello</p>
 </body>
-</html>

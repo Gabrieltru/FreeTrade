@@ -1,13 +1,11 @@
 # Welcome to FreeTrade!
 
-This is my first webpage hosted on GitHub Pages.
 
 ## Here you can see stock prices indicators and trade entries.
 
-Hello!
 
 <!-- Button to open the menu -->
-<button onclick="toggleMenu()">Open Menu</button>
+<button onclick="toggleMenu()">Menu</button>
 
 <!-- Hidden menu -->
 <div id="menu" style="display: none; background-color: lightgray; padding: 20px; margin-top: 10px;">
@@ -30,3 +28,5 @@ Hello!
         }
     }
 </script>
+
+### Resources
